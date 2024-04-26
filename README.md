@@ -14,6 +14,7 @@ I looked at the distribution of each of the variable, looked at their key statis
 
 ![agehistogram](https://github.com/SarkarRohan1/Finlatics-Banking-Project/assets/82277560/d196bbe2-c88b-489c-8bb5-a6c8a95633cf)
 
-![educationbarplot](https://github.com/SarkarRohan1/Finlatics-Banking-Project/assets/82277560/8f4a6f3c-59c2-4660-97bb-7acc6f5d0157)
+![educationbarplot](https://github.com/SarkarRohan1/Finlatics-Banking-Project/assets/82277560/db31a639-6f5f-4bd7-94af-f4ce60778669)
+
 
 
