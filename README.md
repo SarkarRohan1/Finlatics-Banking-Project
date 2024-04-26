@@ -19,7 +19,7 @@ I looked at the distribution of each of the variable, looked at their key statis
 ### Insights
 - The bank was able to reach higher number of clients than before with 81.73% of clients being new out of the total sample in the current campaign
 - The success rate was low for both campaigns, 0.18 for the previous and 0.11 for the current, showing a drop in subscription turnover. Thus, the current campaign seemed to have performed worse.
-- The longer the cellular phone call lasted with the client, the likelihood of term deposit subscription increased.
+- There was a moderate positive correlation between subscription and duration of call. Thus, the longer the cellular phone call lasted with the client, the likelihood of term deposit subscription increased.
 
   ![correlationplot](https://github.com/SarkarRohan1/Finlatics-Banking-Project/assets/82277560/8654fcf4-987a-464f-86c3-478c7377d31b)
 
