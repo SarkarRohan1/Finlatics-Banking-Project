@@ -12,4 +12,5 @@ I removed missing value rows (There were a total of 6 such rows, so it could be 
 ### Exploratory data analysis
 I looked at the distribution of each of the variable, looked at their key statistical info (quartiles, mean, mode, standard deviation, etc.), kurtosis and skew and presence of outliers. Distribution plots of a couple of variables
 
-![Distribution plot of the age variable](‪C:\Users\ROHAN\Videos\finlatics\agehistogram.png)
+![agehistogram](https://github.com/SarkarRohan1/Finlatics-Banking-Project/assets/82277560/d196bbe2-c88b-489c-8bb5-a6c8a95633cf)
+
